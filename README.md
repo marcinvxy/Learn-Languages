@@ -1,2 +1,2 @@
 # LearnLanguages
-![](https://github.com/marcinvxy/LearnALanguages/blob/01/Screenshot1.png) 
+![](https://github.com/marcinvxy/LearnAanguages/app1/Screenshots/Screenshot1.png) 
