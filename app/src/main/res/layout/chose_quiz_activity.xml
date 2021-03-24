@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorNotebook"
+    tools:context=".ChoseQuizActivity">
+
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="298dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/gabriola"
+        android:paddingBottom="15dp"
+        android:text="Test"
+        android:textSize="25dp"
+        android:thumbTint="@color/brown"
+        android:trackTint="#A89A94"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.061" />
+
+    <Switch
+        android:id="@+id/switch2"
+        android:layout_width="298dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/switch1"
+        android:fontFamily="@font/gabriola"
+        android:paddingBottom="15dp"
+        android:text="Kartkówka"
+        android:textSize="25dp"
+        android:thumbTint="@color/brown"
+        android:trackTint="#A89A94"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.137" />
+
+
+    <ExpandableListView
+        android:id="@+id/expandableListView"
+        android:layout_width="303dp"
+        android:layout_height="382dp"
+        android:layout_below="@id/switch2"
+        android:layout_gravity="center"
+        android:divider="#C4A88F"
+        android:dividerHeight="2px"
+        android:paddingTop="15dp"
+        app:layout_constraintBottom_toTopOf="@+id/button_chose_quiz_activity"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/switch2"
+        app:layout_constraintVertical_bias="0.428"></ExpandableListView>
+
+    <Button
+        android:id="@+id/button_chose_quiz_activity"
+        android:layout_width="237dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/nextbtn"
+        android:onClick="nextActivity"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.948" />
+</androidx.constraintlayout.widget.ConstraintLayout>
