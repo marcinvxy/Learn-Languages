@@ -1,2 +1,13 @@
 # LearnLanguages
 ![](https://github.com/marcinvxy/LearnLanguages/blob/master/app/Screenshots/Screenshot1.png)
+![](https://github.com/marcinvxy/LearnLanguages/blob/master/app/Screenshots/Screenshot2.png)
+![](https://github.com/marcinvxy/LearnLanguages/blob/master/app/Screenshots/Screenshot3.png)
+![](https://github.com/marcinvxy/LearnLanguages/blob/master/app/Screenshots/Screenshot4.png)
+![](https://github.com/marcinvxy/LearnLanguages/blob/master/app/Screenshots/Screenshot5.png)
+![](https://github.com/marcinvxy/LearnLanguages/blob/master/app/Screenshots/Screenshot6.png)
+![](https://github.com/marcinvxy/LearnLanguages/blob/master/app/Screenshots/Screenshot7.png)
+![](https://github.com/marcinvxy/LearnLanguages/blob/master/app/Screenshots/Screenshot8.png)
+![](https://github.com/marcinvxy/LearnLanguages/blob/master/app/Screenshots/Screenshot9.png)
+![](https://github.com/marcinvxy/LearnLanguages/blob/master/app/Screenshots/Screenshot10.png)
+![](https://github.com/marcinvxy/LearnLanguages/blob/master/app/Screenshots/Screenshot11.png)
+![](https://github.com/marcinvxy/LearnLanguages/blob/master/app/Screenshots/Screenshot12.png)
